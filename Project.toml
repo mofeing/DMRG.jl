@@ -1,0 +1,7 @@
+name = "DMRG"
+uuid = "f33d63ad-f497-4648-8588-263974a41f95"
+authors = ["Sergio Sánchez Ramírez <sergio.sanchez.ramirez@bsc.es> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
